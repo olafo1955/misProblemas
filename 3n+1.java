@@ -9,6 +9,8 @@ import java.util.StringTokenizer;
  *
  * @author Carlos
  * Esta es la solución al problema 3n + 1
+ * https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=36
+ *
  */
 public class Main {
 
